@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Vijeta</h1>
 <h3 align="center">Passionate Software Engineer crafting digital dreams.</h3>
 
-<img align="right" alt="coding_gif" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+<img align="right" alt="coding_gif" width="350" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitvijeta-github&label=Profile%20views&color=0e75b6&style=flat" alt="mohitvijeta-github" /> </p>
 
